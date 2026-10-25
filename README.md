@@ -73,8 +73,7 @@ EcoVision-AI/
 ├── EcoVision_AI_streamlit.py
 ├── requirements.txt
 ├── README.md
-└── models/
-    └── ecovision_resnet18_best.pth
+└── EcoVision_AI.ipynb
 ```
 
 # ⚠️ Limitations
